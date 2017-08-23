@@ -88,6 +88,8 @@ signature mistakes. In this case, using [Flow][flow] may help you.
 - With ESLint, please follow the [Airbnb][npm-eslint-config-airbnb]'s rules for javascript
 - With TSLint, please follow the [Microsoft][npm-tslint-microsoft-contrib]'s rules for ts files
 
+Please check this [list](https://github.com/dustinspecker/awesome-eslint) if your are using ESLint
+
 ### Testing
 
 There are a lot of testing tools for nodejs. With [Jest][jest], no need to configure your test 
