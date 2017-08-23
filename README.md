@@ -31,6 +31,8 @@ Current Nodejs comes with `npm@3`, nowadays we've heard that npm is still in rac
 Regarding the current nodejs version and some comparing article, there is no big reason for 
 switching package manager from yarn to `npm@5`. Still we can stay with yarn.
 
+Don't forget to add `.yarnclean` file to your repository.
+
 ### Npm Scripts
 
 Try to cover all development and deployment related tasks. Your project will run w/o any IDE on CI.
