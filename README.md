@@ -15,9 +15,8 @@ production ready`
 - [ ] Keep your dependencies updated 
 - [ ] Create a generator for your projects with using [Yeoman][yeoman]
 - [ ] Share your knowledge with community 
-- [ ] Check the [best practices](https://expressjs.com/en/advanced/best-practice-security.html) 
-from Express for Production 
-
+- [ ] Check the [best practices](https://expressjs.com/en/advanced/best-practice-security.html) from Express for Production 
+- [ ] Check your dependencies with using [snyk](https://snyk.io/vuln/) and [nodesecurity](https://nodesecurity.io/advisories)
     
 ### Nodejs Version
 
